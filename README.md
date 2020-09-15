@@ -135,3 +135,7 @@ Main UI which will be compiled and shown to user.
 [<img align="left" alt="MrLonelly | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="MrLonelly | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MrLonelly | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/mr_l0n3lly
+[instagram]: https://www.instagram.com/apavalac/
+[linkedin]: https://www.linkedin.com/in/andrei-pavalachi-270b3a167/
