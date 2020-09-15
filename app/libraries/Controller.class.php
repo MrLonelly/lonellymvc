@@ -12,7 +12,7 @@
         public function model($model)
         {
             // Require model file
-            require_once '../models/' . $model . '.class.php';
+            require_once '../app/models/' . $model . '.class.php';
 
             return new $model();
         }
